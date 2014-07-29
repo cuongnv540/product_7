@@ -22,6 +22,8 @@ XML. <br/>
 2- Project dưới đây sử dụng facebook SDK for PHP . <br/>
 • Để có thể chạy được cần cài đặt PHP 5.4 trở lên , apache version > 2.0 <br/>
 • Chạy file example.php trong thư mục examples để thấy đc sự hoạt động của Grap API trong việc giúp truy suất lấy thông tin cơ sở dữ liệu của user từ Facebook <br/>
+• Có thể xem rõ hơn tại tech blog framgia : http://tech.blog.framgia.com/vn/?p=4380
+
 
 
 
